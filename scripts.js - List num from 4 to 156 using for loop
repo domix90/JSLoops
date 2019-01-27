@@ -1,0 +1,13 @@
+
+/* This script prints out in the console numbers from 4 to 156 in a for loop */
+
+
+var number = ''; 
+
+for ( var j = 4; j <= 156; j += 1) {
+
+number += console.log (j);
+
+}
+
+
